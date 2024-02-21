@@ -1,0 +1,47 @@
+body{
+    background-color: aqua;
+    
+}
+form{
+    text-align: center;
+    border-radius: 8px;
+    border-color:2px solid white transparent;
+    max-width: 400px;
+    max-height: 500px;
+    border: solid aquamarine;
+    margin:0 auto 1rem;
+    background:rgb(13, 236, 236) transparent;
+
+}
+h1{
+    margin-top: 30px;
+    padding-top:10px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 25px;
+
+}
+label{
+    padding-left: 6px;
+    padding-top: 5px;
+    text-align: left;
+    display: block;
+
+}
+input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: rgb(13, 236, 236);
+}
+.btnsignup{
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
